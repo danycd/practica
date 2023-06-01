@@ -1,0 +1,21 @@
+  834  mkdir Actividades
+  835  cd Actividades
+  836  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+  837  cd "Deportes acuaticos"
+  838  touch Basquet Ajedrez.txt "Ping pong"
+  839  cd .. 
+  840  cd "Deportes de equipo"
+  841  touch Basquet Ajedrez.txt "Ping pong"
+  842  cd .. 
+  843  cd "Deportes de mesa"
+  844  touch Basquet Ajedrez.txt "Ping pong"
+  845  cd .. 
+  846  cd "Deportes extremos"
+  847  touch Basquet Ajedrez.txt "Ping pong"
+  848  cd .. 
+  849  cd "Deportes mentales"
+  850  touch Basquet Ajedrez.txt "Ping pong"
+  851  cd .. 
+  852  git init 
+  853  git remote add origin https://github.com/danycd/practica.git
+  854  mkdir "Lista de comandos"
